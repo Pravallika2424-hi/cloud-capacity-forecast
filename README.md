@@ -16,3 +16,7 @@ The generator combines daily seasonality, a weekend effect, gentle growth, and n
 ## Resume description
 
 Created a synthetic service-demand forecasting demo with chronological evaluation and transparent capacity recommendations in Python.
+
+## Source
+Imported from https://github.com/gurijalachaitanya483-web/cloud-capacity-forecast.
+
